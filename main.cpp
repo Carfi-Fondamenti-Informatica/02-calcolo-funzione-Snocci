@@ -7,7 +7,7 @@ int main() {
 if(x<0 and y>0) {
     z=a*x-b*y;
 }
-else if(x>=0 and y<=0) {
+else { if(x>=0 and y<=0) 
     z=a*(x*x)-b*y;
 }
 else {
