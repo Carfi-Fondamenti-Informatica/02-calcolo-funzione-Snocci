@@ -12,6 +12,6 @@ int main() {
     }else{
     z=a*x-b*(y*y);
 }
-    cout<< z<< endl;
+    cout<< z;
     return 0;
 }
